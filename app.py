@@ -7,4 +7,4 @@ def fibo(x: int) -> int:
         return 1
     return fibo(x-1) + fibo(x-2)
 
-print(fibo(19))
+print(fibo(10))
